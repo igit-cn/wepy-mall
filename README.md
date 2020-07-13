@@ -1,14 +1,15 @@
 ### 安装（更新） wepy 命令行工具。
-	npm install wepy-cli -g
+	yarn: yarn global add wepy-cli 
+    npm: npm i wepy-cli -g
 
 ### 安装依赖包
-	npm install
+	yarn / npm install
 
 ### 开发实时编译。
-	npm run dev
+	yarn run dev / npm run dev
 
 ### 生产压缩
-	npm run build //上传代码时，请先执行此命令，否则会提示包体积过大
+	yarn run build / npm run build //上传代码时，请先执行此命令，否则会提示包体积过大
 
 
 ### 开发使用说明(重要)
@@ -147,10 +148,13 @@
 
 此小程序借助于wepy进行高度的组件封装，仅供学习参考。喜欢就动手点个star吧~^o^~
 
-### 如需合作请加
-qq:490844594  微信:dyq088
+### 联系方式 
 
- ### 友情赞助
+ 
+ <img src="https://github.com/dyq086/wxYuHanStore/blob/master/screenshots/WechatIMG278.png" width="624" height="371"/>
+
+ ### 如果你有产品或技术需求可以找我哈，可提供一切前端开发技术服务，如需要的小伙伴请添加微信 
+ <!-- ### 友情赞助
  如果本项目对你有较大的帮助，可以对我打赏，否则不需要，随便放个二维码，看看有没有对我特别好的小伙伴 ~ 哈哈 
-<img src="https://github.com/dyq086/wxYuHanStore/blob/master/screenshots/WechatIMG276.jpg" width="400" height="400"/> 
+<img src="https://github.com/dyq086/wxYuHanStore/blob/master/screenshots/WechatIMG276.jpg" width="400" height="400"/>  -->
 
